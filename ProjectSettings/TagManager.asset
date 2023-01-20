@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Slidey
+  - Walls
+  - Trigger
+  - Entity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ParallaxBackground
+    uniqueID: 503940917
+    locked: 0
+  - name: OutsideBackground
+    uniqueID: 3364883919
+    locked: 0
+  - name: Props
+    uniqueID: 2719046799
+    locked: 0
+  - name: Entity
+    uniqueID: 2989927437
+    locked: 0
+  - name: Water
+    uniqueID: 1305872085
+    locked: 0
+  - name: InsideBackground
+    uniqueID: 313159959
+    locked: 0
+  - name: Ground
+    uniqueID: 2578940555
+    locked: 0
+  - name: Text
+    uniqueID: 3454083391
+    locked: 0
